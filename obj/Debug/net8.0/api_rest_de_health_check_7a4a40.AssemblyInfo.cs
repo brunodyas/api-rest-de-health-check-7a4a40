@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("api_rest_de_health_check_7a4a40")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e9a249ece7763403911526449208c28f9ee7f96")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+270cec5cba93c6eb78f29863245e2904f11c2c8c")]
 [assembly: System.Reflection.AssemblyProductAttribute("api_rest_de_health_check_7a4a40")]
 [assembly: System.Reflection.AssemblyTitleAttribute("api_rest_de_health_check_7a4a40")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
