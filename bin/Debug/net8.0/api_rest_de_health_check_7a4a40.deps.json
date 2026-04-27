@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "api_rest_de_health_check_7a4a40/1.0.0": {
+        "runtime": {
+          "api_rest_de_health_check_7a4a40.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "api_rest_de_health_check_7a4a40/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
