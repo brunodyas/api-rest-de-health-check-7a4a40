@@ -12,3 +12,4 @@ D:\Projetos\GitAuto\workspace\api-rest-de-health-check-7a4a40\obj\Debug\net8.0\r
 D:\Projetos\GitAuto\workspace\api-rest-de-health-check-7a4a40\obj\Debug\net8.0\api_rest_de_health_check_7a4a40.pdb
 D:\Projetos\GitAuto\workspace\api-rest-de-health-check-7a4a40\obj\Debug\net8.0\api_rest_de_health_check_7a4a40.genruntimeconfig.cache
 D:\Projetos\GitAuto\workspace\api-rest-de-health-check-7a4a40\obj\Debug\net8.0\ref\api_rest_de_health_check_7a4a40.dll
+D:\Projetos\GitAuto\workspace\api-rest-de-health-check-7a4a40\obj\Debug\net8.0\api_rest_de_health_check_7a4a40.sourcelink.json
